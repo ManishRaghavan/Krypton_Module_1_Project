@@ -1,0 +1,79 @@
+body{
+    font-family:sans-serif;
+}
+#red{
+    background-color: rgb(243, 147, 147);
+    height: 2500px;
+}
+
+/* #akshay */
+#green{
+    
+    height: 3000px;
+    line-height: 28px;
+    
+}
+
+/* #powerful filtering */
+
+.attributes_img {
+    float: left;
+    margin-top: 45px;
+}
+
+#green > div:nth-child(1) {
+    float: left;
+    margin: 80px;
+    
+    
+}
+
+/* #funnels */
+
+.funnel_img {
+    
+    width: 450px;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 80px;
+    float: left;
+}
+
+#green > div:nth-child(4) {
+    float: left;
+    margin: 80px;
+    margin-top: 120px;
+}
+
+/* #Tag your sessions */
+
+#green > div:nth-child(5) {
+    float: left;
+    margin-left: 80px;
+    
+}
+
+.insp_img {
+    float: left;
+    margin-left: 80px;
+    margin-top: 30px;
+    
+}
+
+.tagged_img {
+    float: left;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+
+    
+
+    
+
+
+
+#yellow{
+    background-color: rgb(241, 243, 147);
+    height: 1000px;
+}
