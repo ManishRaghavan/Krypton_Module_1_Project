@@ -1,0 +1,15 @@
+body{
+    font-family:sans-serif;
+}
+#red{
+    background-color: rgb(243, 147, 147);
+    height: 2500px;
+}
+#green{
+    background-color: rgb(174, 243, 147);
+    height: 1000px;
+}
+#yellow{
+    background-color: rgb(241, 243, 147);
+    height: 1000px;
+}
