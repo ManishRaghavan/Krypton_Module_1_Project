@@ -1,0 +1,284 @@
+.manish{
+    height: 1000px;
+    background-color: aquamarine;
+}
+
+
+.akshay {
+    height: 3000px;
+   
+}
+
+/* #first reference box */
+.first_box {
+   
+   width: 900px;
+   height: 500px;
+   margin-left: 200px;
+   
+}
+
+
+/* #second reference box */
+.second_box {
+   
+   width: 900px;
+   height: 500px;
+   margin-left: 200px;
+   margin-top: 20px;
+}
+
+/* #heading box */
+.heading {
+    
+    width: 500px;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 20px;
+    
+    
+}
+
+h2 {
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+/* #left box */
+.left {
+  
+   width: 350px;
+   height: 400px;
+   margin-left: 20px;
+   margin-top: 20px;
+   float: left;
+}
+
+.left > p {
+   line-height: 35px;
+   font-size: 20px;
+}
+
+/* # new york times */
+
+.times {
+   
+   
+    width: 50px;
+    height: 43px;
+    
+    float: left;
+
+}
+
+.times_1_img {
+    width: 50px;
+    height: 43px;
+}
+
+
+.times1 {
+   
+    width: 285px;
+    height: 43px;
+    
+    float: left;
+}
+
+.times1_img {
+    width: 260px;
+    height: 60px;
+    
+}
+
+/* #right box */
+
+.right {
+  
+   width: 350px;
+   height: 400px;
+   margin-left: 150px;
+   margin-top: 20px;
+   float: left;
+}
+
+/* #sales force box */
+
+.sales {
+   
+    width: 150px;
+    height: 100px;
+    float: left;
+
+}
+
+.sales_img {
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+/* #ebay box */
+
+.ebay {
+   
+    width: 150px;
+    height: 100px;
+    float: left;
+    margin-left: 46px;
+}
+
+.ebay_img {
+    width: 150px;
+    height: 70px;
+    margin-top: 3px;
+}
+
+
+/* #heroku box */
+
+.heroku {
+    margin-top: 40px;
+   
+    width: 180px;
+    height: 100px;
+    float: left;
+}
+
+.heroku_img {
+    width: 180px;
+    height: 60px;
+    margin-top: 15px;
+}
+
+
+
+/* #cisco box */
+
+.cisco {
+    margin-top: 40px;
+   
+    width: 150px;
+    height: 100px;
+    float: left;
+    margin-left: 16px;
+}
+
+.cisco_img {
+    width: 100px;
+    height: 70px;
+    margin-top: 3px;
+    margin-left: 20px;
+}
+
+/* #wordpress box */
+
+.wordpress {
+    margin-top: 55px;
+   
+    width: 210px;
+    height: 100px;
+    float: left;
+}
+
+.wordpress_img {
+    width: 210px;
+    height: 60px;
+    margin-top: 15px;
+}
+
+
+/* #abc box */
+
+.abc {
+    margin-top: 55px;
+   
+    width: 80px;
+    height: 100px;
+    float: left;
+    margin-left: 16px;
+}
+
+.abc_img {
+    width: 60px;
+    height: 60px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+/* #second reference box */
+   
+/* #top reference box */
+
+.top {
+   
+    width: 860px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 10px;
+    line-height: 28px;
+    color: #454545;
+    font-size: 17px;
+}
+
+.inner_box1 {
+   
+    width: 270px;
+    height: 180px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.inner_box2 {
+   
+    width: 270px;
+    height: 180px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.inner_box3 {
+   
+    width: 270px;
+    height: 180px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.inner_box1 > strong {
+    font-size: 19px;
+    
+}
+
+.inner_box2 > strong {
+    font-size: 19px;
+}
+
+.inner_box3 > strong {
+    font-size: 19px;
+}
+
+
+/* #bottom reference box */
+
+.bottom {
+   
+    width: 860px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    line-height: 28px;
+    color: #454545;
+    font-size: 17px;
+}
+
+/* #inner reference boxes same as above */
+
+a {
+    text-decoration: none;
+    color: #507cb6;
+}
+
