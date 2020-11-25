@@ -20,12 +20,13 @@ body{
     height: 100px;
 }
 
-.inspectlet_head
+.inspectlet_head>a
 {
     font-size: 25px;
     margin-left: 170px;
     color: snow;
     float: left;
+    margin-top: 30px;
 }
 .inspectlet_head+div{
     width: 700px;
@@ -35,6 +36,12 @@ body{
     font-size: 15px;
     color: snow;
 }
+/* this tag is for links */
+#navigation_a{
+    font-size: 15px;
+    color: snow;
+}
+/* ------------------ */
 .inspectlet_head+div>p{
     float: left;
     padding-left: 40px;
@@ -48,7 +55,6 @@ body{
     border-radius: 30px;
     text-align: center;
     padding-top: 10px;
-
     font-size: 15px;
 }
 .Stop_guessing{
