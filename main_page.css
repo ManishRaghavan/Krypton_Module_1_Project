@@ -72,32 +72,38 @@ body{
 }
 .try_box{
     background-color: #2cc36b;
-    height: 68px;
-    width: 250px;
+    height: 60px;
+    width: 270px;
     border-radius: 32px;
     float: left;
-    margin-left: 420px;
+    margin-left: 380px;
     margin-top: 40px;
+    padding-top: 1px;
 }
 .get_box{
     border: 2px solid rgb(216, 216, 216) ;
-    height: 65px;
-    width: 250px;
+    height: 58px;
+    width: 270px;
     border-radius: 32px;
     float: left;
     margin-left: 20px;
-    margin-top: 40px;
+    margin-top: 38px;
 }
-.try_box>p,.get_box>p{
+#try_box_a{
+    margin-left: 60px;
     font-size: 20px;
     color: snow;
-    text-align: center;
+}
+#get_box_a{
+    margin-left: 60px;
+    font-size: 20px;
+    color: snow;
 }
 video{
     height: 67.5%;
     width: 85%;
     margin-left: 100px;
-    margin-top: 60px;
+    margin-top: 68px;
 }
 .trust_below{
     background-color: #f5f7f9;
