@@ -1,3 +1,8 @@
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+}
+
 .greyblack {
     background: url(https://d2ues8mtn1tc1i.cloudfront.net/img/v3/subtlepatterns-white_texture.png);
     height: 1300px;
@@ -11,18 +16,19 @@
   #logo{
       /* border: 1px solid blue; */
       height: 30px;
-      width: 80px;
+      width: 100px;
       float: left;
-      margin-left: 100px;
-      font-size: 20px;
+      margin-left: 300px;
+      font-size: 21px;
       color: white;
       background-color: #e74c3c;
-      border-radius: 10px; 
+      border-radius: 0px 0px 10px 10px; 
       padding: 10px;
+      font-weight: 100;
   }
 
   #spreadbox{
-      margin-left: 600px;
+      margin-left: 300px;
       /* border: 1px solid green; */
   }
   #spreadbox > div{
@@ -70,6 +76,7 @@
     border: 1px solid grey;
     margin: 15px 120px;
     font-size: 18px;
+    color: white;
     border-radius: 10px;
     background-color: #0870c0;
   }

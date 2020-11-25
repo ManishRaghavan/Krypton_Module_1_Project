@@ -10,7 +10,7 @@ body{
 
 }
 #green{
-    height: 900px;
+    height: 1000px;
 }
 #yellow{
     margin-top: 30px;
@@ -323,11 +323,19 @@ video{
 
             .footbutton{
                 background-color: #27ae60;
-                height: 10px;
+                height: 30px;
                 width: 150px;
                 text-align: center;
+                font-size: 15px;
                 border-radius: 5px;
-                padding: 20px;
+                padding-bottom: 20px;
+            }
+            .footbutton p{
+                padding-top: 15px;
+            }
+            .bodyrow4inner2>p
+            {
+                padding-top: 13px;
             }
 
             .foot_col1 > p:first-child{ 
@@ -402,7 +410,7 @@ video{
             }
 
             .bodyrow4inner2{
-                height: 20px;
+                height: 55px;
                 width: 290px;
                 background-color: #3898EC;
                 border-radius: 30px;
@@ -410,7 +418,6 @@ video{
                 color: white;
                 font-weight: bold;
                 font-size: 20px;
-                padding: 20px;
             }
 
             .frameit {
@@ -456,14 +463,23 @@ video{
     
     
 }
+h2{
+    font-weight: 500;
+}
 
 /* #funnels */
+.filter{
+    line-height: 28px;
+    font-weight: 500;
+    font-size:18px ;
+    margin-top: 50px;
+}
 
 .funnel_img {
     
     width: 450px;
     height: 250px;
-    margin-top: 120px;
+    margin-top: 140px;
     margin-left: 150px;
     float: left;
 }
