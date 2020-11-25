@@ -22,13 +22,15 @@ body{
 }
 #navtop > div:nth-child(2){
    font-size: 25px;
+   margin-top: 2px;
 }
 
 #navtop > div:last-child{
     border-radius: 30px;
     width: 150px;
-     border: 0.5px solid white;  
-     text-align: center;
+    border: 0.5px solid white;  
+    text-align: center;
+    
 }
 #navrow1{
     height: 400px;
@@ -86,11 +88,13 @@ body{
     font-size: 23px;
     font-weight: 400;
 }
+
 .margin{
     height: 10px;
     width: 1000px;
     margin: 0px auto;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid rgb(182, 177, 177);
+   
 }
 
 .bodyrow2{
@@ -98,6 +102,7 @@ body{
     width: 1000px;
      height: 420px; 
     margin: 10px auto;
+    margin-top: 50px;
     /* font-size: 30px; */
 }
 
