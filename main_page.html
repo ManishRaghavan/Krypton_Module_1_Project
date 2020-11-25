@@ -9,9 +9,9 @@
 <body>
     <div id="red">
         <div class="navigation">
-            <p class="inspectlet_head"><a href=" http://127.0.0.1:5500/main_page.html">inspectlet</a></p>
+            <p class="inspectlet_head" id="colorchange"><a href=" http://127.0.0.1:5500/main_page.html">inspectlet</a></p>
             <div>
-                <p><a  id="navigation_a"href="http://127.0.0.1:5500/features.html">Features</a></p>
+                <p><a id="navigation_a"href="http://127.0.0.1:5500/features.html">Features</a></p>
                 <p><a id="navigation_a" href="http://127.0.0.1:5500/pricing.html">Pricing</a></p>
                 <p><a id="navigation_a" href="http://127.0.0.1:5500/docs.html">Docs</a></p>
                 <p><a id="navigation_a" href="http://127.0.0.1:5500/login.html">Login</a></p>
@@ -21,13 +21,13 @@
         <div class="Stop_guessing">
             <p>Stop guessing what your visitors want.</p>
             <p>Google Analytics tells you what, Inspectlet tells you why.</p>
-            <div class="try_box">
+            <div class="try_box" id="try_js">
                 <p><a id="try_box_a" href="http://127.0.0.1:5500/top_get_started.html">Try The Demo  »</a></p>
             </div>
-            <div class="get_box">
+            <div class="get_box" id="get_js">
                 <p><a id="get_box_a" href="http://127.0.0.1:5500/pricing.html">Get Started Now</a></p>
             </div>
-            <video src="https://www.inspectlet.io/includes/assets/session-recording-demo.mp4" />
+            <video autoplay muted src="https://www.inspectlet.io/includes/assets/session-recording-demo.mp4" />
         </div>
         <div class="trust_below">
             <p>TRUSTED BY OVER 90,000 HAPPY COMPANIES LIKE</p>
@@ -203,7 +203,7 @@
                     <div id="bodyrow4">
     
                         <div class="bodyrow4inner1">Setup is a breeze, just drop a few lines of javascript into your site and<br> you'll start seeing data in your dashboard instantly.</div>
-                        <div class="bodyrow4inner2"><p>Get Started with Inspectlet »</p></div>
+                        <div class="bodyrow4inner2" id="down_btn"><p>Get Started with Inspectlet »</p></div>
     
                     </div>
                 </div>
@@ -242,5 +242,8 @@
         </div>
 
 </body>
+<script type="text/javascript" src="main_page.js">
+         
+</script> 
 
 </html>
