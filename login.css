@@ -117,6 +117,10 @@ button > p {
     color: #73879c;
 }
 
+::placeholder {
+    padding-left: 20px;
+}
+
 
 
 
