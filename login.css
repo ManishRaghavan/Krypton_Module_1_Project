@@ -33,6 +33,7 @@ body{
     margin-left: 450px;
     margin-top: 80px;
     position: relative;
+    
 }
 
 .google_box {
@@ -119,6 +120,7 @@ button > p {
 
 ::placeholder {
     padding-left: 20px;
+    
 }
 
 

@@ -11,6 +11,7 @@ body{
     border-bottom: 2px solid #45bdcc;
     background-color: white;
 }
+
 .navigation>div{
     height: 40px;
     width: 100px;
@@ -19,12 +20,14 @@ body{
     float: left;
   
 }
+
 #inspectlet{
     margin-left: 150px;
     height: 40px;
     width: 150px;
 }
-#inspectlet>p{
+
+#inspectlet> p {
     text-align: center;
     font-size: 30px;
     margin-top: 0.2px;
