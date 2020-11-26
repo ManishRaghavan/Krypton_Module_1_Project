@@ -22,7 +22,7 @@ See where your visitors are looking and what parts of the site they're reading b
 -**Scroll Heatmaps**
 Scroll heatmaps show you how far visitors are scrolling down on your site's pages. Find out how many people actually make it to the middle or bottom of the page. Learn where on your page to place your most important content, like the purchase button or a special discount banner.
 
-<img alt="eye-tracking heatmaps" src="https://www.inspectlet.io/includes/assets/landing/images/click.png"  >
+<img alt="eye-tracking heatmaps"  src="https://www.inspectlet.io/includes/assets/landing/images/scroll.png"  >
 
 ### login Page:
 
