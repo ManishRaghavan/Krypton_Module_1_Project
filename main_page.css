@@ -317,10 +317,15 @@ a {
     border-radius: 32px;
 }
 #try>p{
-    color: white;
     font-size: 20px;
     text-align: center;
 }
+
+
+#online {
+    color: white;
+}
+
             .footmain{
                 background-color: #333;
                 height: 350px;
@@ -348,6 +353,10 @@ a {
                 font-size: 15px;
                 border-radius: 5px;
                 padding-bottom: 20px;
+            }
+
+            #get {
+                color: white;
             }
             .footbutton p{
                 padding-top: 15px;
@@ -434,9 +443,12 @@ a {
                 background-color: #3898EC;
                 border-radius: 30px;
                 margin: 0px auto;
-                color: white;
                 font-weight: bold;
                 font-size: 18px;
+            }
+
+            #get_started_bottom {
+                color: rgb(255, 255, 255);
             }
 
             .frameit {
